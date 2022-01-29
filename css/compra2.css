@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body {
+	background-color: black;
+	color: azure;
+	font-family: "Montserrat";
+}
+
+
+.logo{
+	width: 100%;
+	height: 80px;
+  }
+
+
+.list{
+	color: azure;
+}
+
+td{
+	color:aqua;
+}
+
+#subtotal, #comision{
+	color: azure;
+}
+.text-right {
+	color: azure;
+}
+
+#btnbuy{
+background-color: #ff147a;
+border-color: #f58df0;
+}
+
+.bg-dark {
+    background-color: black;
+  }
+  
+ 
